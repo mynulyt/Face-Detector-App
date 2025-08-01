@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Material App',
+      title: 'Face Detector',
       home: Scaffold(
         appBar: AppBar(title: const Text('Material App Bar')),
         body: const Center(child: Text('Hello World')),
