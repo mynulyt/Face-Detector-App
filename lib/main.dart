@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       title: 'Face Detector',
       home: Scaffold(
         appBar: AppBar(title: const Text('Face Detector')),
-        body: const Center(child: Text('Hello World')),
+        body: const Center(child: Text('Face Detector')),
       ),
     );
   }
